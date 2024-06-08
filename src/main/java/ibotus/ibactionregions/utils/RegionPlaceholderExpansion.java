@@ -17,7 +17,7 @@ public class RegionPlaceholderExpansion extends PlaceholderExpansion {
 
     @Override
     public @NotNull String getIdentifier() {
-        return "ArkanaRegion";
+        return "IBActionRegions";
     }
 
     @Override

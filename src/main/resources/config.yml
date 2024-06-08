@@ -1,8 +1,8 @@
 # Developer - https://t.me/IBoTuS
 
-# %ibarkana-region% - Placeholder который выводит сообщение об присутствии региона.
-# %ibarkana-no-region% - Placeholder который выводить сообщение об отсутствии региона.
-# %ibarkana-owner% - Placeholder который выводит игроку его регоин.
+# %ibactionregions-region% - Placeholder который выводит сообщение об присутствии региона.
+# %ibactionregions-no-region% - Placeholder который выводить сообщение об отсутствии региона.
+# %ibactionregions-owner% - Placeholder который выводит игроку его регоин.
 
 messages: #Сообщения
   permission: "#0EC8E2[✘] &fУ вас нет прав для этой команды!"
