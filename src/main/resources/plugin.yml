@@ -1,0 +1,11 @@
+name: IBActionRegions
+version: '${project.version}'
+main: ibotus.ibactionregions.IBActionRegions
+api-version: '1.16'
+authors: [IBoTuS]
+softdepend: [ PlaceholderAPI, WorldGuard, WorldEdit ]
+commands:
+  IBActionRegions: {}
+permissions:
+  ibactionregions.reload:
+    default: op

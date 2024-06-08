@@ -1,0 +1,22 @@
+# Developer - https://t.me/IBoTuS
+
+# %ibarkana-region% - Placeholder который выводит сообщение об присутствии региона.
+# %ibarkana-no-region% - Placeholder который выводить сообщение об отсутствии региона.
+# %ibarkana-owner% - Placeholder который выводит игроку его регоин.
+
+messages: #Сообщения
+  permission: "#0EC8E2[✘] &fУ вас нет прав для этой команды!"
+  reload: "#0EC8E2[✔] &fКонфигурация успешно перезагружена!"
+  usage: "#0EC8E2[✘] &fИспользование: /ibactionregions <reload>"
+
+region-settings:
+  enable: true
+  region-actionbar: "#0EC8E2✘ &fРегион в привате!"
+  no-region-actionbar: "#0EC8E2✔ &fСВОБОДНАЯ ТЕРРИТОРИЯ!"
+
+region-custom-settings:
+  enable: true
+  owner: "#0EC8E2✔ &fВаш регион!"
+  custom-regions:
+    pvp: "#0EC8E2✔ &fРегион пвп!"
+    spawn: "#0EC8E2✔ &fРегион спавна!"
